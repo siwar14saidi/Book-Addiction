@@ -1,0 +1,215 @@
+.desafficher {
+    display: none;
+  }
+  /*class{                
+    height: 100vh;           
+    background: url(../images/background.jpg) center center no-repeat fixed;   
+    height: 100vh;         
+    background-size: cover;         
+    z-index: -20;        
+   }*/ /*  a3tehaa id welaa class w 3aytelhaa m3aaa les paramétre hethom */
+  
+
+   #img{
+    margin-top: 20px;
+  }
+     body{                
+      background-size: cover;
+      background-attachment: fixed;
+      font-family: 'Segoe UI Light'; 
+     }
+  
+     
+.home{
+    background: url(../images/womanbook3.png);
+    width: 560px;
+    height: 800px;
+  background-size: 550px;
+ margin-top: -20px;
+  margin-left: 770px;
+  margin-right: 300px;
+  padding:  100px;
+  padding-right: 100PX;
+  background-position: initial;
+      font-family: 'Raleway', sans-serif;
+    
+}
+
+  .profile{
+    display: inline-block;
+  }
+  
+  
+  h1{
+    
+      font-size: 80px;
+      color:#ffffff;
+     text-align: start;
+     margin-left: -150mm;
+     margin-top: 150px;   
+   
+  }
+  
+  h4{
+      color: chartreuse;    
+  }
+  
+  h6{
+      color: crimson;
+  }
+  
+  h5{
+      color: rgb(0, 0, 0);
+      size: 200px;
+  }
+  
+  p{
+    margin:auto ;
+  }
+
+  
+  a{
+  color: #000000 !important;
+  }
+  
+  button[class="text"]{
+    border: none;
+  outline: none;
+  border-radius:   25px 25px 25px 25px;
+  width: 125px;
+  height: 50px;
+    background: #faf9f7  ;
+    cursor: pointer;
+    color: #000000  ;
+    border: 1PX solid #fff;
+    transition: .5S;
+    font-family: source sans pro ;
+    font-weight: initial;
+    font-size: 19px;
+      margin-top: 50px;
+margin-left: -150mm;
+      overflow: hidden;
+      transition: 0.2s;
+    
+  }
+
+  
+  
+    button[class="submit2"]{
+      border: none;
+    outline: none;
+    border-radius:  25px 25px 25px 25px;
+    width: 125px;
+    height: 50px;
+      background: #ffffff ;
+      cursor: pointer;
+      color: #000000  ;
+      border: 1PX solid #fff;
+      transition: .5S;
+      font-family: source sans pro ;
+      font-weight: lighter;
+      font-size: 19px;
+        margin-top: 15px;
+        
+        overflow: hidden;
+        transition: 0.2s;
+      
+    }
+
+  
+  
+    
+  
+   .hi{
+     
+      text-align: start ;
+      size: 500px;
+      padding-right: 100px;
+   position: -ms-page;
+    }
+    
+    .footer-soial-icons ul{
+      margin: 0px;
+      padding: 0px;
+      text-align: center;
+    }
+    .footer-soial-icons ul li{
+      margin:  10px 30px ;
+      display: inline-block;
+      font-size: 20px;
+      padding: 20px 20px;
+      color: #F28705;
+    
+      border-radius: 50%;
+      transition: .5s;
+     
+    }
+    .footer-soial-icons ul li :hover{
+      color: #292929;
+      transition: .5s;
+       color: #F2F2F2;
+     border-radius: 40%;
+     transition: .5s;
+    }
+    .footer{
+      position: relative;
+      size: 10PX;
+      top: auto;
+      left: auto;
+      background: #292929;
+      border-radius: 15% 15% 0 0  ;
+      transition: .5s;
+    }
+  
+  
+  
+  
+    .search {
+      position: absolute;
+      top: 50%;
+      left: 85%;
+      transform: translate(-50%, -50%);
+      background: #2f3640;
+      height: 40px;
+      border-radius: 40px;
+      padding: 10px;
+    }
+    .search:hover > .search-input {
+      width: 100px;
+      padding: 0 6px;
+    }
+    .search:hover > .search-btn {
+      background: white;
+    }
+    
+    .search-btn {
+      color: #e84118;
+      float: right;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: #2f3640;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: 0.4s;
+      text-decoration: none;
+    }
+    
+    .search-input {
+      border: none;
+      background: none;
+      outline: none;
+      float: left;
+      padding: 0;
+      color: white;
+      font-size: 16px;
+      transition: 0.4s;
+      line-height: 40px;
+      width: 0px;
+    }
+    .font{
+      font-family: 'Megrim', cursive;
+    }
+    
+    
